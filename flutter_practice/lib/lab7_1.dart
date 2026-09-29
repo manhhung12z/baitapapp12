@@ -1,4 +1,4 @@
-// Họ tên: NGUYỄN VĂN A   |   MSSV: 12345678   |   Lab 7.1 - Form đăng ký cơ bản
+// Họ tên: Đặng Đức Mạnh   |   MSSV: 26A4041643   |   Lab 7.1 - Form đăng ký cơ bản
 import 'package:flutter/material.dart';
 
 void main() => runApp(const Lab71App());

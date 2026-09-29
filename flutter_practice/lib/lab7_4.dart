@@ -1,4 +1,4 @@
-// Họ tên: NGUYỄN VĂN A   |   MSSV: 12345678   |   Lab 7.4 - Kiểm tra email bất đồng bộ
+// Họ tên: Đặng Đức Mạnh   |   MSSV: 26A4041643   |   Lab 7.4 - Kiểm tra email bất đồng bộ
 import 'dart:async';
 
 import 'package:flutter/material.dart';
